@@ -1,0 +1,7 @@
+src/
+├── components/
+│   ├── ArticleInput.js
+│   ├── SummaryOutput.js
+├── App.js
+├── App.css
+└── index.js
