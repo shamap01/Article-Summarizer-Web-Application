@@ -1,0 +1,5 @@
+Create a folder named components in the src directory and create the following files:
+
+Header.js
+Footer.js
+ArticleSummarizer.js
