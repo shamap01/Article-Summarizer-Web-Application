@@ -16,3 +16,13 @@ footer {
     color: white;
     text-align: center;
     padding: 10px
+
+    position: fixed; bottom: 0; width: 100%; }
+
+form { display: flex; justify-content: center; margin: 20px 0; }
+
+input { padding: 10px; margin-right: 10px; width: 300px; }
+
+button { padding: 10px; }
+
+h2 { margin-top: 20px; }
